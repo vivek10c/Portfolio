@@ -1,12 +1,15 @@
 # Portfolio
 
 Manwar Singh's Portfolio
+
 Welcome to my GitHub portfolio! I'm Manwar Singh, a passionate developer and AI/ML enthusiast currently pursuing a Master of Computer Applications with a specialization in AI/ML at the University of Petroleum and Energy Studies.
 
 About Me
+
 I hold a Bachelor of Science in Information Technology and have hands-on experience in web development, software engineering, and artificial intelligence. My technical skills include HTML, CSS, JavaScript, React, PHP, MySQL, Python, C, and Java.
 
 Projects
+
 Here are some of the notable projects I've worked on:
 
 Music Streaming Website
